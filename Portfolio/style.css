@@ -444,7 +444,55 @@ ul {
 
 .course-image-area {
     width: 100%;
-    margin-top: 2rem;
+    margin-top: -6rem;
+    margin-bottom: -12rem;
+}
+
+.course-image-area4 {
+    width: 100%;
+    margin-top: -12rem;
+    margin-bottom: -30rem;
+}
+
+
+.course-img1 {
+    width: 600px;
+    height: 600px;
+    object-fit: contain;
+    display: block;
+    margin-left: 0;
+    margin-right: auto;
+    /* 왼쪽 정렬 확정 */
+}
+
+.course-img2 {
+    width: 600px;
+    height: 600px;
+    object-fit: contain;
+    display: block;
+    margin-left: 0;
+    margin-right: auto;
+    /* 왼쪽 정렬 확정 */
+}
+
+.course-img3 {
+    width: 600px;
+    height: 600px;
+    object-fit: contain;
+    display: block;
+    margin-left: 0;
+    margin-right: auto;
+    /* 왼쪽 정렬 확정 */
+}
+
+.course-img4 {
+    width: 600px;
+    height: 600px;
+    object-fit: contain;
+    display: block;
+    margin-left: 0;
+    margin-right: auto;
+    /* 왼쪽 정렬 확정 */
 }
 
 .course-img-placeholder {
