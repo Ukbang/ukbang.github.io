@@ -165,6 +165,28 @@ ul {
     gap: 1rem;
 }
 
+.linkedin-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.8rem 1.5rem;
+    background: linear-gradient(45deg, #0077b5, #00a0dc);
+    color: #ffffff;
+    text-decoration: none;
+    border-radius: 50px;
+    font-weight: 600;
+    font-size: 0.9rem;
+    transition: var(--transition);
+    box-shadow: 0 4px 15px rgba(0, 119, 181, 0.2);
+}
+
+.linkedin-btn:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 8px 20px rgba(0, 119, 181, 0.4);
+    background: linear-gradient(45deg, #00669c, #0077b5);
+    color: #ffffff;
+}
+
 .cta-button.primary {
     background-color: var(--accent-color);
     color: white;
