@@ -704,7 +704,8 @@ footer {
 /* Responsive */
 @media (max-width: 1024px) {
     .about-content {
-        grid-template-columns: 1fr;
+        display: flex;
+        flex-direction: column-reverse;
         gap: 40px;
     }
 
