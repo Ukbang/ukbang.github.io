@@ -253,7 +253,7 @@ ul {
 /* About */
 .about-content {
     display: grid;
-    grid-template-columns: 1fr 2fr;
+    grid-template-columns: 2fr 1.4fr;
     gap: 50px;
     align-items: center;
 }
@@ -709,7 +709,7 @@ footer {
     }
 
     .about-profile-visual {
-        max-width: 400px;
+        max-width: 500px;
     }
 }
 
