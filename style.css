@@ -241,6 +241,14 @@ ul {
     -webkit-text-fill-color: transparent;
 }
 
+.contact .section-title {
+    justify-content: center;
+}
+
+.contact .section-title::after {
+    display: none;
+}
+
 .section-title::after {
     content: "";
     display: block;
