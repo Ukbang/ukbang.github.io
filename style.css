@@ -100,15 +100,17 @@ ul {
     min-height: 100vh;
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: center;
     padding: 80px 10% 0;
     gap: 2rem;
     position: relative;
+    text-align: center;
 }
 
 .hero-content {
-    flex: 1;
-    max-width: 600px;
+    flex: none;
+    width: 100%;
+    max-width: 800px;
     z-index: 1;
 }
 
@@ -135,7 +137,7 @@ ul {
 }
 
 .tagline {
-    font-size: clamp(1.2rem, 3vw, 2rem);
+    font-size: clamp(1rem, 2vw, 1.3rem);
     color: var(--secondary-color);
     margin-bottom: 2rem;
 }
@@ -159,6 +161,7 @@ ul {
 
 .hero-buttons {
     display: flex;
+    justify-content: center;
     gap: 1rem;
 }
 
@@ -250,8 +253,20 @@ ul {
 /* About */
 .about-content {
     display: grid;
-    grid-template-columns: 3fr 2fr;
+    grid-template-columns: 1fr 2fr;
     gap: 50px;
+    align-items: center;
+}
+
+.about-profile-visual {
+    width: 100%;
+    margin: 0 auto;
+}
+
+.about-profile-photo {
+    width: 100%;
+    object-fit: contain;
+    display: block;
 }
 
 .about-text p {
@@ -690,7 +705,11 @@ footer {
 @media (max-width: 1024px) {
     .about-content {
         grid-template-columns: 1fr;
-        gap: 30px;
+        gap: 40px;
+    }
+
+    .about-profile-visual {
+        max-width: 400px;
     }
 }
 
