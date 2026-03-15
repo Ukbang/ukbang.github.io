@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="380 300 100 100">
+  <defs>
+    
+  </defs>
+  <rect x="380" y="300" width="100" height="100" rx="12" style="fill:none;stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto" />
+  <path d="M410 340 A22 22 0 1 1 430 362" fill="none" style="fill:none;stroke:rgb(79, 70, 229);color:rgb(255, 255, 255);stroke-width:1.6px;stroke-linecap:round;stroke-linejoin:round;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto" />
+  <polyline points="424,368 430,362 436,368" style="fill:none;stroke:rgb(79, 70, 229);color:rgb(255, 255, 255);stroke-width:1.6px;stroke-linecap:round;stroke-linejoin:round;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto" />
+  <path d="M420 348 L420 356 Q420 360 424 360 L432 360 Q434 360 434 358 L434 352 Q434 350 432 350 L428 350 L430 344 Q430 342 428 342 L424 342 Q422 342 420 345 Z" style="fill:none;stroke:rgb(79, 70, 229);color:rgb(255, 255, 255);stroke-width:1.2px;stroke-linecap:round;stroke-linejoin:round;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto" />
+  <rect x="416" y="350" width="4" height="10" rx="1" style="fill:none;stroke:rgb(79, 70, 229);color:rgb(255, 255, 255);stroke-width:1.2px;stroke-linecap:round;stroke-linejoin:round;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto" />
+</svg>
