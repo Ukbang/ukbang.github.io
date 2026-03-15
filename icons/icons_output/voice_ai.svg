@@ -1,14 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="140 160 100 100">
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100">
   <defs>
     
   </defs>
-  <rect x="140" y="160" width="100" height="100" rx="12" style="fill:none;stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto" />
-  <rect x="172" y="180" width="16" height="26" rx="8" style="fill:none;stroke:rgb(79, 70, 229);color:rgb(255, 255, 255);stroke-width:1.6px;stroke-linecap:round;stroke-linejoin:round;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto" />
-  <path d="M162 205 Q162 222 180 222 Q198 222 198 205" style="fill:none;stroke:rgb(79, 70, 229);color:rgb(255, 255, 255);stroke-width:1.6px;stroke-linecap:round;stroke-linejoin:round;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto" />
-  <line x1="180" y1="222" x2="180" y2="232" style="fill:none;stroke:rgb(79, 70, 229);color:rgb(255, 255, 255);stroke-width:1.6px;stroke-linecap:round;stroke-linejoin:round;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto" />
-  <line x1="172" y1="232" x2="188" y2="232" style="fill:none;stroke:rgb(79, 70, 229);color:rgb(255, 255, 255);stroke-width:1.6px;stroke-linecap:round;stroke-linejoin:round;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto" />
-  <path d="M156 200 Q152 210 156 220" opacity="0.7" style="fill:none;stroke:rgb(79, 70, 229);color:rgb(255, 255, 255);stroke-width:1.2px;stroke-linecap:round;stroke-linejoin:round;opacity:0.7;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto" />
-  <path d="M150 196 Q144 210 150 224" opacity="0.5" style="fill:none;stroke:rgb(79, 70, 229);color:rgb(255, 255, 255);stroke-width:1.2px;stroke-linecap:round;stroke-linejoin:round;opacity:0.5;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto" />
-  <path d="M204 200 Q208 210 204 220" opacity="0.7" style="fill:none;stroke:rgb(79, 70, 229);color:rgb(255, 255, 255);stroke-width:1.2px;stroke-linecap:round;stroke-linejoin:round;opacity:0.7;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto" />
-  <path d="M210 196 Q216 210 210 224" opacity="0.5" style="fill:none;stroke:rgb(79, 70, 229);color:rgb(255, 255, 255);stroke-width:1.2px;stroke-linecap:round;stroke-linejoin:round;opacity:0.5;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto" />
+  
+  <rect x="42.0" y="24.0" width="16" height="26" rx="8" style="fill:none;stroke:rgb(79, 70, 229);stroke-width:1.8px;stroke-linecap:round;stroke-linejoin:round;" />
+  <path d="M32.0 49.0 Q32.0 66.0 50.0 66.0 Q68.0 66.0 68.0 49.0" style="fill:none;stroke:rgb(79, 70, 229);stroke-width:1.8px;stroke-linecap:round;stroke-linejoin:round;" />
+  <line x1="50.0" y1="66.0" x2="50.0" y2="76.0" style="fill:none;stroke:rgb(79, 70, 229);stroke-width:1.8px;stroke-linecap:round;stroke-linejoin:round;" />
+  <line x1="42.0" y1="76.0" x2="58.0" y2="76.0" style="fill:none;stroke:rgb(79, 70, 229);stroke-width:1.8px;stroke-linecap:round;stroke-linejoin:round;" />
+  <path d="M26.0 44.0 Q22.0 54.0 26.0 64.0" opacity="0.7" style="fill:none;stroke:rgb(79, 70, 229);stroke-width:1.8px;stroke-linecap:round;stroke-linejoin:round;" />
+  <path d="M150 40.0 Q144 54.0 150 68.0" opacity="0.5" style="fill:none;stroke:rgb(79, 70, 229);stroke-width:1.8px;stroke-linecap:round;stroke-linejoin:round;" />
+  <path d="M74.0 44.0 Q78.0 54.0 74.0 64.0" opacity="0.7" style="fill:none;stroke:rgb(79, 70, 229);stroke-width:1.8px;stroke-linecap:round;stroke-linejoin:round;" />
+  <path d="M80.0 40.0 Q86.0 54.0 80.0 68.0" opacity="0.5" style="fill:none;stroke:rgb(79, 70, 229);stroke-width:1.8px;stroke-linecap:round;stroke-linejoin:round;" />
 </svg>
