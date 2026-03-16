@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100">
+  <defs>
+    <style>
+      .s  { fill:none; stroke:rgb(79,70,229); stroke-width:1.8; stroke-linecap:round; stroke-linejoin:round; }
+      .st { fill:none; stroke:rgb(79,70,229); stroke-width:1.2; stroke-linecap:round; stroke-linejoin:round; }
+      .sm { fill:none; stroke:rgb(79,70,229); stroke-width:1.0; stroke-linecap:round; stroke-linejoin:round; }
+      .dot { fill:rgb(79,70,229); }
+    </style>
+  </defs>
+
+  <!-- ① 프롬프트 입력창 (하단) -->
+  <rect x="10" y="72" width="80" height="20" rx="5" class="s"/>
+  <!-- 입력 텍스트 줄 -->
+  <line x1="18" y1="82" x2="58" y2="82" class="st"/>
+  <!-- 커서 -->
+  <line x1="61" y1="78" x2="61" y2="86" class="s"/>
+  <!-- 전송 버튼 (삼각형 화살표) -->
+  <path d="M70 79 L78 82 L70 85 Z" class="s"/>
+
+  <!-- ② 위쪽으로 올라가는 화살표 (생성 트리거) -->
+  <line x1="50" y1="68" x2="50" y2="56" class="st"/>
+  <polyline points="46,60 50,56 54,60" class="st"/>
+
+  <!-- ③ 중앙 폭발 스파크 (생성의 순간) -->
+  <!-- 메인 4방향 -->
+  <line x1="50" y1="42" x2="50" y2="32" class="s"/>
+  <line x1="50" y1="52" x2="50" y2="42" class="s" opacity="0.3"/>
+  <line x1="40" y1="42" x2="50" y2="42" class="s" opacity="0.3"/>
+  <line x1="50" y1="42" x2="60" y2="42" class="s"/>
+  <!-- 대각 4방향 -->
+  <line x1="50" y1="42" x2="43" y2="35" class="st"/>
+  <line x1="50" y1="42" x2="57" y2="35" class="st"/>
+  <line x1="50" y1="42" x2="43" y2="49" class="st" opacity="0.4"/>
+  <line x1="50" y1="42" x2="57" y2="49" class="st" opacity="0.4"/>
+  <!-- 중심 점 -->
+  <circle cx="50" cy="42" r="3" class="s"/>
+  <circle cx="50" cy="42" r="1.2" class="dot"/>
+
+  <!-- ④ 생성된 결과물들 (스파크 주변에 떠오르는 오브젝트) -->
+
+  <!-- 이미지 아이콘 (왼쪽) -->
+  <rect x="14" y="28" width="22" height="18" rx="3" class="s"/>
+  <circle cx="20" cy="34" r="2.5" class="st"/>
+  <polyline points="14,42 20,36 26,40 30,35 36,42" class="st"/>
+
+  <!-- 텍스트 문서 아이콘 (오른쪽) -->
+  <rect x="64" y="28" width="22" height="22" rx="3" class="s"/>
+  <line x1="69" y1="35" x2="81" y2="35" class="st"/>
+  <line x1="69" y1="40" x2="81" y2="40" class="st"/>
+  <line x1="69" y1="45" x2="76" y2="45" class="st"/>
+
+  <!-- 코드 아이콘 (상단 중앙) -->
+  <path d="M44 14 L40 18 L44 22" class="st"/>
+  <path d="M56 14 L60 18 L56 22" class="st"/>
+  <line x1="47" y1="24" x2="53" y2="12" class="sm"/>
+
+  <!-- 작은 반짝이 점들 -->
+  <circle cx="35" cy="22" r="1.5" class="dot"/>
+  <circle cx="66" cy="22" r="1.5" class="dot"/>
+  <circle cx="28" cy="48" r="1.2" class="dot"/>
+  <circle cx="72" cy="48" r="1.2" class="dot"/>
+
+</svg>
